@@ -1,47 +1,48 @@
 main:
-  - title: "Wiki"
-    url: /wiki/
-    description: "Wiki"
+  - title: "Personajes"
+    url: /personajes/
+    description: "Personajes principales, secundarios, y supergrupos"
   - title: "Relatos"
-    url: /stories/
+    url: /relatos/
+  - title: "Builds"
+    url: /builds/
   - title: "Acerca de"
-    url: /about/
+    url: /acerca-de/
     description: "Acerca de esta página"
 wiki:
-  - title: "Ambientación"
-    children:
-      - title: "Ciudad Paragon"
-        url: /wiki/ambientacion/paragon-city/
-      - title: "Rogue Isles"
-        url: /wiki/ambientacion/rogue-isles/
-      - title: "Praetoria"
-        url: /wiki/ambientacion/praetoria/
-  - title: "Personajes"
+  - title: "Personajes principales"
     children:
       - title: "Pantalla"
-        url: /wiki/personaje/pantalla/
+        url: /personaje/pantalla/
       - title: "Fuego Orbital"
-        url: /wiki/personaje/fuego-orbital/
+        url: /personaje/fuego-orbital/
       - title: "Susurro Nocturno"
-        url: /wiki/personaje/susurro-nocturno/
-  - title: "Builds"
+        url: /personaje/susurro-nocturno/
+  - title: "Otros personajes"
+    children:
+      - title: "Ernest Darkshadow"
+        url: /personaje/ernest-darkshadow/
+  - title: "Supergrupos"
+    children:
+      - title: "Phoenix Inc."
+        url: /acerca-de/
+      - title: "LCP"
+        url: /supergrupo/lcp/
+builds:
+  - title: "Arquetipos (AT)"
     children:
       - title: "Defender"
-        url: /wiki/builds/defender/
+        url: /categories/#defender
       - title: "Corruptor"
-        url: /wiki/builds/corruptor/
+        url: /categories/#corruptor
       - title: "Controller"
-        url: /wiki/builds/controller/
+        url: /categories/#controller
       - title: "Dominator"
-        url: /wiki/builds/dominator/
+        url: /categories/#dominator
       - title: "Sentinel"
-        url: /wiki/builds/sentinel/
-stories:
-  - title: "Crónicas"
+        url: /categories/#sentinel
+relatos:
+  - title: "Archivo"
     children:
-      - title: "issue 10 - Inicios"
-        url: "/stories/issues/issue-10"
-  - title: "Recortes de periódico"
-    children: 
-      - title: "Tercera fuga frustrada de la Penitenciaría Zigursky"
-        url: "/stories/newspaper/01"
+      - title: "issue 10"
+        url: /categories/#issue-10

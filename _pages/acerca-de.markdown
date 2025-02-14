@@ -1,6 +1,6 @@
 ---
 title: Acerca de
-permalink: /about/
+permalink: /acerca-de/
 ---
 
 Bienvenidos a Phoenix Inc., Supergrupo de [Ciudad Paragon](https://forums.homecomingservers.com/). 
