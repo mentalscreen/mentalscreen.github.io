@@ -19,7 +19,27 @@ https://jekyllrb.com/docs/structure/
   * `bundle exec jekyll serve --drafts` : to see how drafts are rendered
   * https://jekyllrb.com/docs/posts/#drafts
 
-# Check how everything looks
+# How to run things
+
+## Local
+
+```
+> .\start.bat
+```
+
+Visit http://localhost:4000/
+
+## Local with drafts
+
+To see WIPs
+
+```
+> .\start_draft.bat
+```
+
+Same url.
+
+## Official documentation
 
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
 
@@ -27,4 +47,3 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/test
 > bundle exec jekill serve
 ```
 
-http://localhost:4000/
