@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Testing drafts"
 date:   2025-02-14 13:04:42 +0100
 categories: jekyll draft

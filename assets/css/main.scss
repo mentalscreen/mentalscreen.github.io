@@ -1,0 +1,36 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+$background-color: #ededff;
+$intro-transition: none;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main 
+
+/*.sidebar .nav__list .nav__items li span.nav__sub-title {
+    //background-color: #e5f6fd;
+    padding-left: 0.5em;
+}
+
+.sidebar .nav__list .nav__items li ul li {
+    padding-left: 1em;
+}
+
+.sidebar .nav__list .nav__items li ul li:hover {
+    background-color: #0092ca;
+    color: white
+}*/
+
+.sidebar .nav__list .nav__items li ul li a:hover {
+    text-decoration: underline;
+    color: #0092ca;
+    transition: none;
+}
+
+.page__content p, .page__content li, .page__content dl,
+.archive p, .archive li, .archive dl {
+    font-size: 0.8em;
+}

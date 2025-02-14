@@ -1,0 +1,47 @@
+main:
+  - title: "Wiki"
+    url: /wiki/
+    description: "Wiki"
+  - title: "Relatos"
+    url: /stories/
+  - title: "Acerca de"
+    url: /about/
+    description: "Acerca de esta página"
+wiki:
+  - title: "Ambientación"
+    children:
+      - title: "Ciudad Paragon"
+        url: /wiki/ambientacion/paragon-city/
+      - title: "Rogue Isles"
+        url: /wiki/ambientacion/rogue-isles/
+      - title: "Praetoria"
+        url: /wiki/ambientacion/praetoria/
+  - title: "Personajes"
+    children:
+      - title: "Pantalla"
+        url: /wiki/personaje/pantalla/
+      - title: "Fuego Orbital"
+        url: /wiki/personaje/fuego-orbital/
+      - title: "Susurro Nocturno"
+        url: /wiki/personaje/susurro-nocturno/
+  - title: "Builds"
+    children:
+      - title: "Defender"
+        url: /wiki/builds/defender/
+      - title: "Corruptor"
+        url: /wiki/builds/corruptor/
+      - title: "Controller"
+        url: /wiki/builds/controller/
+      - title: "Dominator"
+        url: /wiki/builds/dominator/
+      - title: "Sentinel"
+        url: /wiki/builds/sentinel/
+stories:
+  - title: "Crónicas"
+    children:
+      - title: "issue 10 - Inicios"
+        url: "/stories/issues/issue-10"
+  - title: "Recortes de periódico"
+    children: 
+      - title: "Tercera fuga frustrada de la Penitenciaría Zigursky"
+        url: "/stories/newspaper/01"

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Rogue Isles
-exclude: true
+permalink: /wiki/ambientacion/rogue-isles/
+categories: wiki ambientacion
 ---
 content content content
 

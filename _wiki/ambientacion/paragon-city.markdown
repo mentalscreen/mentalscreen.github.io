@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Ciudad Paragon
-exclude: true
+permalink: /wiki/ambientacion/paragon-city/
+categories: wiki ambientacion
 ---
 content content content
 
