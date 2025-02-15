@@ -1,0 +1,48 @@
+main:
+  - title: "Personajes"
+    url: /personajes/
+    description: "Personajes principales, secundarios, y supergrupos"
+  - title: "Relatos"
+    url: /relatos/
+  - title: "Builds"
+    url: /builds/
+  - title: "Acerca de"
+    url: /acerca-de/
+    description: "Acerca de esta página"
+wiki:
+  - title: "Personajes principales"
+    children:
+      - title: "Pantalla"
+        url: /personaje/pantalla/
+      - title: "Fuego Orbital"
+        url: /personaje/fuego-orbital/
+      - title: "Susurro Nocturno"
+        url: /personaje/susurro-nocturno/
+  - title: "Otros personajes"
+    children:
+      - title: "Ernest Darkshadow"
+        url: /personaje/ernest-darkshadow/
+  - title: "Supergrupos"
+    children:
+      - title: "Phoenix Inc."
+        url: /acerca-de/
+      - title: "LCP"
+        url: /supergrupo/lcp/
+builds:
+  - title: "Arquetipos (AT)"
+    children:
+      - title: "Defender"
+        url: /categories/#defender
+      - title: "Corruptor"
+        url: /categories/#corruptor
+      - title: "Controller"
+        url: /categories/#controller
+      - title: "Dominator"
+        url: /categories/#dominator
+      - title: "Sentinel"
+        url: /categories/#sentinel
+relatos:
+  - title: "Archivo"
+    children:
+      - title: "issue 10"
+        url: /categories/#issue-10
