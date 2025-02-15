@@ -11,7 +11,7 @@ tags:
 toc: true
 toc_label: ""
 sidebar:
-  nav: "wiki"
+  nav: "builds"
 author_profile: false
 breadcrumbs: true
 ---

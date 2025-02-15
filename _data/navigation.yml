@@ -13,21 +13,21 @@ wiki:
   - title: "Personajes principales"
     children:
       - title: "Pantalla"
-        url: /personaje/pantalla/
+        url: /personaje/pantalla
       - title: "Fuego Orbital"
-        url: /personaje/fuego-orbital/
+        url: /personaje/fuego-orbital
       - title: "Susurro Nocturno"
-        url: /personaje/susurro-nocturno/
+        url: /personaje/susurro-nocturno
   - title: "Otros personajes"
     children:
       - title: "Ernest Darkshadow"
-        url: /personaje/ernest-darkshadow/
+        url: /personaje/ernest-darkshadow
   - title: "Supergrupos"
     children:
       - title: "Phoenix Inc."
         url: /acerca-de/
       - title: "LCP"
-        url: /supergrupo/lcp/
+        url: /supergrupo/lcp
 builds:
   - title: "Arquetipos (AT)"
     children:
