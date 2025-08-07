@@ -1,13 +1,13 @@
 ---
-title:  "Themal/Fire/Fire"
-categories: 
+title: "Time/Psy/?"
+categories:
   - build
   - defender
-tags: 
+tags:
   - defender
-  - thermal radiation
-  - fire blast
-  - fire mastery
+  - time manipulation
+  - psychic blast
+  - xxx mastery
 toc: true
 toc_label: ""
 sidebar:
@@ -15,11 +15,12 @@ sidebar:
 author_profile: false
 breadcrumbs: true
 ---
+
 ## Conceptos y objetivos
 
 Qué stats se buscan tener, qué concepto tiene el personaje, etc.
 
-## Números 
+## Números
 
 Una tabla con números y tal
 

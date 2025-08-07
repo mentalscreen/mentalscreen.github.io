@@ -27,10 +27,11 @@ Qué stats se buscan tener, qué concepto tiene el personaje, etc.
 
 ## Números 
 
-Una tabla con números y tal
+Una tabla con números y tal. Aunque también he usado bullet-points.
 
 ## Build de MIDs Reborn
 
+`Generated via: Build Sharing > Secure Share`
 ```
 el bloque de código
 ```
